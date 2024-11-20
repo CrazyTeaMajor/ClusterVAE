@@ -1,5 +1,5 @@
 # ClusterVAE
-This is the main code for "Cluster informed one-step training VAE for image classification" (CVPR2025)
+This is the main code for "xxxx" (xxxx2025)
 
 # Dataset:
 - MNIST: torchvision download.
